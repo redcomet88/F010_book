@@ -1,7 +1,6 @@
-# F010_book
-完整项目收费，可联系微信: maimaidashuju 注明从git来的，谢谢！
-
-# F010 Vue+Flask豆瓣图书推荐大数据可视化平台系统源码
+# F010_book  Vue+Flask豆瓣图书推荐大数据可视化平台系统源码
+完整项目收费，可联系微信: mmdsj186011 注明从git来的，谢谢！
+也可以关注我的B站： 麦麦大数据 https://space.bilibili.com/1583208775
 
 📚编号： F010 
 
